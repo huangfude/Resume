@@ -763,16 +763,13 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 119px;
+	    margin-top: 96px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 129px;
+	    margin-top: 99px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 116px;
-}
-ul.year li:nth-child(5){
-	    margin-top: 112px;
+	    margin-top: 99px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
@@ -1212,7 +1209,7 @@ span.border.two:after {
 }
 /*-- //footer --*/
 .copy_right p {
-      color: #fff;
+      color: #000;
     font-size: 0.9em;
     line-height: 1.9em;
     margin: 1em 0;
